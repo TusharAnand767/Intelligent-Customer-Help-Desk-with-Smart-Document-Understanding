@@ -17,5 +17,7 @@ To take it a step further, the project shall use the Smart Document Understandin
 
 
 Chatbot link- https://node-red-767.eu-gb.mybluemix.net/ui/#!/0?socketid=OjHiUU7bKlDO2385AAAA
+
 Youtube link- https://youtu.be/6PH0vaPP4Ww
+
 Github link - https://github.com/TusharAnand767/Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
